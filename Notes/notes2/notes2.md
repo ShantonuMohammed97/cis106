@@ -1,4 +1,4 @@
-# Lecture 2 Introduction to Linux Notes (this is the title of the document - Heading 1 formatting please!)
+ # Lecture 2 Introduction to Linux Notes (this is the title of the document - Heading 1 formatting please!)
 
 ## 1. What is an Operating System?
 An operating system (OS) is the core software that manages a computer's hardware and runs applications. It acts as a bridge between you and the machine.
