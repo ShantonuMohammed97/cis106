@@ -30,6 +30,7 @@
 
 ## Question 2
 **a. What is a variable?**
+
     A variable is a named place that stores a value, such as text or a number.
 
 **b. How do I use a variable?**
@@ -37,6 +38,7 @@ assign a value using = sign
 `name="Shanto"`
 `echo "$name"`
 Output: Shanto
+
 
 **c. What is an environment variable?**
 A variable passed to programs started from the shell. For example, HOME stores your home directory’s path. `echo "$HOME"`
