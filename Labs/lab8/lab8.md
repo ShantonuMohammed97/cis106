@@ -10,3 +10,7 @@
 
 ## Practice 3
 ![img](Q1.P3.png)
+
+## Challenge Question 
+* **img1** ![img](Chng.1.png)
+* **img2** ![img](Chng.3.png)
